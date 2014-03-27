@@ -7,7 +7,7 @@ Projeto CCP-PSI
 Padrao MVC
 
 
-Modelo: JPA com Hibaernate (Padrao projeto DAO)
+Modelo: JPA com Hibernate (Padrao projeto DAO)
 
 Controle e View: JSF
 
