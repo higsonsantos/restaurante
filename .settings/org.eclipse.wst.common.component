@@ -2,7 +2,7 @@
     <wb-module deploy-name="restaurante2">
         <wb-resource deploy-path="/" source-path="/WebContent"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="restaurante2"/>
         <property name="java-output-path" value="/restaurante2/build/classes"/>
+        <property name="context-root" value="restaurante2"/>
     </wb-module>
 </project-modules>
